@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated typing headline -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=I+build+infrastructure+that+deploys+itself%2C;monitors+itself%2C+and+recovers+before+you're+paged." alt="Typing SVG" />
 
 <br/>
 
-<!-- Pipeline animation bar -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1200&pause=400&color=4CAF50&center=true&vCenter=true&width=600&height=30&lines=Code+%E2%80%BA+Build+%E2%80%BA+Test+%E2%80%BA+Deploy+%E2%80%BA+Monitor+%E2%80%BA+Repeat" alt="Pipeline" />
 
 <br/>
 
-<!-- Core stack badges -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -21,79 +18,79 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ghaithsoltani&style=flat-square&color=2496ED&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ghaith-soltani-191808344)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-brightgreen?style=flat-square)](mailto:ghaithsoltani@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-brightgreen?style=flat-square)](mailto:ghaithsoltani36@gmail.com)
 
 </div>
 
 ---
 
-## Services
+## What I Do
 
 <table>
   <tr>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=spring,java,redis&theme=dark" /><br/>
-      <strong>Web Development</strong><br/>
-      <sub>Full-stack Java · Spring Boot · REST APIs · Redis caching · production-ready backends</sub>
+      <strong>Backend Development</strong><br/>
+      <sub>Java · Spring Boot 3 · REST APIs · Redis · production-ready services</sub>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes&theme=dark" /><br/>
       <strong>DevOps Engineering</strong><br/>
-      <sub>CI/CD pipelines · GitOps · Docker · Kubernetes · zero-downtime automated deploys</sub>
+      <sub>CI/CD pipelines · GitOps · Docker · Kubernetes · zero-downtime deploys</sub>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=linux,bash,aws&theme=dark" /><br/>
       <strong>DevSecOps</strong><br/>
-      <sub>Linux hardening · CIS benchmarks · security scoring · auto-remediation · 36→84/100</sub>
+      <sub>Linux hardening · CIS benchmarks · auto-remediation · 36 → 84/100 score</sub>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark" /><br/>
-      <strong>AI &amp; ML</strong><br/>
-      <sub>RAG systems · LLM integrations · ML pipelines · vector databases · Python backends</sub>
+      <strong>AI & ML Integration</strong><br/>
+      <sub>RAG systems · LLM integrations · vector databases · Python ML pipelines</sub>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus&theme=dark" /><br/>
-      <strong>Automation</strong><br/>
-      <sub>Bash scripting · Ansible · monitoring hooks · auto-remediation · scheduled workflows</sub>
+      <strong>Observability</strong><br/>
+      <sub>Prometheus · Grafana · alerting · Ansible · auto-remediation workflows</sub>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=nodejs,python,postgres&theme=dark" /><br/>
       <strong>Workflow Automation</strong><br/>
-      <sub>n8n pipelines · API integrations · no-code/low-code flows · webhook triggers · data routing between tools</sub>
+      <sub>n8n · API integrations · webhook triggers · no-code/low-code data flows</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Who I Am
+## About Me
 
-Software Engineering student in Tunisia, specializing in DevOps, cloud-native infrastructure, and Linux systems security. I build CI/CD pipelines, harden servers, and wire up GitOps workflows — the kind of backend plumbing that keeps systems running without human babysitting.
+Final-year Software Engineering student based in Tunisia, specializing in DevOps, cloud-native infrastructure, and Linux systems security. I design and ship CI/CD pipelines, harden servers against industry benchmarks, and implement GitOps workflows — the kind of backend infrastructure that keeps systems reliable without constant human intervention.
 
-Every cert and skill on this profile links to a shipped project. No theory-only claims.
+Every skill and certification listed here is backed by a shipped, documented project. No theory-only claims.
 
 ---
 
-## What I Build
+## What I Deliver
 
 | | Capability | Outcome |
 |---|---|---|
-| 🔁 | **GitOps pipelines** | Deployments stop being manual rituals — every push is auditable and automated |
-| 🛡️ | **Linux security audit tools** | Hardening a server takes minutes, not days — with a score to prove it |
-| 📦 | **Containerized stacks** | "Works on my machine" stops being acceptable |
-| 📊 | **Monitoring systems** | Your team sees a Grafana alert before a customer files a ticket |
+| 🔁 | **GitOps pipelines** | Every deployment is automated, auditable, and triggered by a single git push |
+| 🛡️ | **Linux security hardening** | Server CIS compliance raised from 36 to 84/100 (+133%) in a single automated run |
+| 📦 | **Containerized stacks** | Reproducible builds across every environment — dev, staging, and production |
+| 📊 | **Monitoring & observability** | Teams see Grafana alerts before customers file tickets |
 
 ---
 
 ## Featured Projects
 
-### 🚀 GitOps Portfolio — Full CI/CD with Monitoring & Automated Deployment
+### 🚀 GitOps Portfolio — Full CI/CD with Monitoring
 
 > End-to-end automated delivery pipeline with full observability on a containerized stack
 
 **Problem:** Teams manually deploy containers with no visibility into what's running or whether it's healthy.  
-**Solution:** Complete GitOps workflow — code push triggers Jenkins, Docker builds and pushes, Kubernetes pulls and deploys, Prometheus/Grafana watch the result.  
-**Architecture:** `Jenkins` → `Docker` → `Kubernetes` → `Prometheus` + `Grafana` with ArgoCD-style GitOps flow.
+**Solution:** Complete GitOps workflow — a git push triggers Jenkins, Docker builds and pushes the image, Kubernetes pulls and deploys, and Prometheus/Grafana monitor the result in real time.  
+**Stack:** `Jenkins` → `Docker` → `Kubernetes` → `Prometheus` + `Grafana`
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -101,39 +98,39 @@ Every cert and skill on this profile links to a shipped project. No theory-only 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-🔗 [View Repo](https://github.com/ghaithsoltani/linux-audit-gitops)
+🔗 [View Repository](https://github.com/ghaithsoltani/linux-audit-gitops)
 
 ---
 
-### 🛡️ Linux Server Audit & Hardening Tool — 36 → 84/100 Security Score
+### 🛡️ Linux Server Audit & Hardening Tool — 36 → 84/100
 
 > Production-grade Bash tool that raises a server's CIS security score by 133% automatically
 
-**Problem:** Linux server hardening is manual, inconsistent, and undocumented — most sysadmins wing it.  
-**Solution:** Pure Bash tool that audits a server against security benchmarks, outputs a scored report, and applies hardening steps automatically.  
-**Architecture:** Single-script, zero-dependency. Runs audit → generates scored report → applies fixes → re-audits to confirm.
+**Problem:** Linux server hardening is manual, inconsistent, and rarely documented — leaving most systems dangerously under-configured.  
+**Solution:** A pure-Bash, zero-dependency script that audits a server against CIS security benchmarks, generates a scored report, applies hardening automatically, and re-audits to confirm the result.  
+**Architecture:** Single script · no external dependencies · audit → score → harden → re-audit
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=flat-square&logo=shield&logoColor=white)
+![CIS](https://img.shields.io/badge/CIS_Benchmarks-CC0000?style=flat-square&logoColor=white)
 
-🔗 [View Repo](https://github.com/ghaithsoltani/linux-audit-gitops)
+🔗 [View Repository](https://github.com/ghaithsoltani/linux-audit-gitops)
 
 ---
 
-### ⚡ Jenkins CI/CD Pipeline with Version Increment
+### ⚡ Jenkins CI/CD Pipeline with Automated Version Increment
 
-> Automated versioning and staged delivery pipeline with PR-gated deploys
+> Staged delivery pipeline with automated semantic versioning and PR-gated deploys
 
-**Problem:** CI pipelines without versioning create untrackable releases and painful rollbacks.  
-**Solution:** Jenkinsfile with automated version increment — every commit produces a traceable, versioned artifact.  
-**Architecture:** Multi-stage `Jenkinsfile` → version bump → build → test → deploy, with GitHub PR gate.
+**Problem:** CI pipelines without versioning produce untrackable releases and painful rollbacks.  
+**Solution:** A multi-stage Jenkinsfile with automated version bumping — every commit produces a uniquely versioned, traceable artifact, and a GitHub PR gate blocks unreviewed code from reaching production.  
+**Architecture:** `Jenkinsfile` → version bump → build → test → deploy
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-🔗 [View Repo](https://github.com/ghaithsoltani/Manage-Jenkins)
+🔗 [View Repository](https://github.com/ghaithsoltani/Manage-Jenkins)
 
 ---
 
@@ -193,20 +190,20 @@ Every cert and skill on this profile links to a shipped project. No theory-only 
 
 ---
 
-## Reach Me
+## Get in Touch
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ghaithsoltani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghaithsoltani@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ghaithsoltani36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghaithsoltani36@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghaith_Soltani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghaith-soltani-191808344)
 [![GitHub](https://img.shields.io/badge/GitHub-ghaithsoltani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghaithsoltani)
 
-📍 **Tunis, Tunisia** · Open to **Remote** and **Hybrid** roles · Recruiters welcome
+📍 **Tunis, Tunisia** · Available for **Remote** and **Hybrid** roles · Recruiters welcome
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=329+contributions+in+the+last+year+%E2%80%94+and+counting." alt="contributions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Building+in+public+%E2%80%94+every+commit+tells+a+story." alt="footer" />
 </div>
